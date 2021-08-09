@@ -1,0 +1,2 @@
+# smooth-hunger
+#Smooth Hunger non-profit concept  This application stems from an idea I have for a non-profit where one takes food waste and makes smoothies for families in need.  This web application will:  Allow a company to donate food For smoothies of the week to be created Organize and schedule volunteers To collect data about the population we are serving #Technology Java, JavaScript, Hibernate, Spring, React, Maven, PostgreSQL, CSS, HTML.  #Author  Davon
