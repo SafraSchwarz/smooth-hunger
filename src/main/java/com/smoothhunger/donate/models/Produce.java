@@ -1,4 +1,4 @@
-package com.smoothhunger.models;
+package com.smoothhunger.donate.models;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,7 +1,7 @@
-package com.smoothhunger.repositories;
+package com.smoothhunger.donate.repositories;
 
 
-import com.smoothhunger.models.Produce;
+import com.smoothhunger.donate.models.Produce;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
